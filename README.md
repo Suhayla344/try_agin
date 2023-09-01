@@ -1,1 +1,1 @@
-# try_agin
+In this repository, I just create some files or something similar for the purpose of learning the C programming language... Pray for me to be successful... And I know that this repository is not important to some, but as I mentioned, it is only for the purpose of learning ^_^ (;
